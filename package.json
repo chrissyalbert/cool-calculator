@@ -16,6 +16,7 @@
     "react-scripts": "3.4.1",
     "typescript": "^3.9.6"
   },
+  "homepage": "https://chrissyalbert.github.io/cool-calculator",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
