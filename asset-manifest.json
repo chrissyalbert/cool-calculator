@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cool-calculator/static/css/main.78027c9d.chunk.css",
+    "main.js": "/cool-calculator/static/js/main.3344b1a2.chunk.js",
+    "main.js.map": "/cool-calculator/static/js/main.3344b1a2.chunk.js.map",
+    "runtime-main.js": "/cool-calculator/static/js/runtime-main.4753216c.js",
+    "runtime-main.js.map": "/cool-calculator/static/js/runtime-main.4753216c.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/cool-calculator/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.b9fdebf2.chunk.js": "/cool-calculator/static/js/2.b9fdebf2.chunk.js",
+    "static/js/2.b9fdebf2.chunk.js.map": "/cool-calculator/static/js/2.b9fdebf2.chunk.js.map",
+    "index.html": "/cool-calculator/index.html",
+    "precache-manifest.43878e13fcb27d0c681c19bcf9dddb12.js": "/cool-calculator/precache-manifest.43878e13fcb27d0c681c19bcf9dddb12.js",
+    "service-worker.js": "/cool-calculator/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/cool-calculator/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.78027c9d.chunk.css.map": "/cool-calculator/static/css/main.78027c9d.chunk.css.map",
+    "static/js/2.b9fdebf2.chunk.js.LICENSE.txt": "/cool-calculator/static/js/2.b9fdebf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4753216c.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.b9fdebf2.chunk.js",
+    "static/css/main.78027c9d.chunk.css",
+    "static/js/main.3344b1a2.chunk.js"
+  ]
+}
